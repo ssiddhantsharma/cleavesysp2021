@@ -8,7 +8,7 @@ What we'll be doing this Summer'21 with prebiotic chemical reaction networks wit
 * [An open source chemical structure curation pipeline using RDKit](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00456-1)
 
 ### Chemical Formats:
-* Understanding what SMILES/NOL2/SDF mean and how to interconvert in between all three using either, 1) [OpenBabel](http://openbabel.org/docs/dev/Command-line_tools/babel.html) or 2) [RDKit](https://gist.github.com/leelasd/43219a222bf57d3e01c2c83f2ad9b031) whatever floats your boat! OpenBabel did mine :)  
+* Understanding what SMILES/MOL2/SDF mean and how to interconvert in between all three using either, 1) [OpenBabel](http://openbabel.org/docs/dev/Command-line_tools/babel.html) or 2) [RDKit](https://gist.github.com/leelasd/43219a222bf57d3e01c2c83f2ad9b031) whatever floats your boat! OpenBabel did mine :)  
 
 * Play around with drawing smiles: [GDB-SMILES-Drawer](https://doc.gdb.tools/smilesDrawer/sd/example/index.html)
 
