@@ -17,10 +17,13 @@ What we'll be doing this Summer'21 with prebiotic chemical reaction networks wit
 ### Descriptor Computations and Visualization:
 * We have to calculate some **physio-chemical descriptors** for our given set of molecules. The standard way to plot them is a simple X-Y Scatter Plot (I'll provide my script so that all the plots coming out of the group remain consistent) where X = Monoisotopic Mass/Exact Mass and Y = Descriptor Value. You can calcualate the Monoisotopic Mass (keep the plot label as exact mass only) through the use of  > calculate chemical properties menu in Datawarrior. I developed the script in Seaborn-Python, you are free to choose any!
 * Calculating descriptors can be done in a multitude of ways which we have tried and tested to see what works the best.
-*
+
 1) [PaDel](https://mordred-descriptor.github.io/documentation/master/index.html): Use the java utiility only when you have less than 10,000 molecules to calculate 2D/3D Descriptors.
+
 2) [CDK-GUI](https://www.softpedia.com/get/Science-CAD/CDK-Descriptor-Calculator.shtml): Use the java GUI to fill in the missing descriptors with PaDel. 
+
 3) [MORDRED](https://mordred-descriptor.github.io/documentation/master/index.html): Python Package to calculate both 2D/3D descriptors, for 3D please convert add hydrogens to your SDF at pH= 7.4 in OpenBabel. Working script for MORDRED is with us, so will share that too.
+
 4) [PyBIOMED](https://github.com/gadsbyfly/PyBioMed): For people who are going to be playing with biological relevant data, check this out.
 
 * Try to couple these all workflows to [Cinfony](http://cinfony.github.io/) which is an integrated package. Will reduce a lot of your repititive tasks. You can also see these cheminformatics toolkits just to play around: [CDB Tools](http://cdb.ics.uci.edu/) and [Chemdes](http://www.scbdd.com/chemdes/), won't be using in actual environments!
