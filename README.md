@@ -43,13 +43,10 @@ What we'll be doing this Summer'21 with prebiotic chemical reaction networks wit
 ## Now what if Sid was your PI instead of Dr. Jim JK :)👋
 
 ### Scaffold Analysis:
-* This is useful for people working on biologically relevant data such as nucleoside analogues, we can use packages like: [ScaffoldGraph](https://github.com/UCLCheminformatics/ScaffoldGraph), [Scaffold_Hunter](http://scaffoldhunter.sourceforge.net/) and exploring the chemical networks generated using the new [ChemSpaX](https://chemrxiv.org/articles/preprint/ChemSpaX_Exploration_of_Chemical_Space_by_Automated_Functionalization_of_Molecular_Scaffold/14617320/1)
+* This is useful for people working on biologically relevant data such as nucleoside analogues, we can use packages like: [ScaffoldGraph](https://github.com/UCLCheminformatics/ScaffoldGraph), [Scaffold_Hunter](http://scaffoldhunter.sourceforge.net/)
 
 ### MORPHER: 
 * I wanted to explore this package [Morpher](https://app.assembla.com/spaces/molpher/wiki) with people working in metabolism/where the products and reactants. Interesting to see what results this approach gives. 
-
-### Interactive Viz:
-* Work with me on how we can represent the generated data better, for the smiles we'll be using the javascript library [Mols](https://github.com/chemplexity/molecules) and I wan to create a visualization for descriptors which is [TMAP](https://tmap.gdb.tools/), something which will look like this [DrugBank](https://tmap.gdb.tools/src/drugbank/drugbank.html). If you have sufficient python experience, building TMAPs for descriptor data is one of the side projects I have. 
 
 
 
