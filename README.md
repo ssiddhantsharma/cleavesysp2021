@@ -40,13 +40,5 @@ What we'll be doing this Summer'21 with prebiotic chemical reaction networks wit
 * We plotted these diagrams using descriptors and missed on the automated analysis of the MS spectra we had. There are automated libraries written in R that can help with this, such as [ftmsRanalysis](https://emsl-computing.github.io/ftmsRanalysis/index.html), [FTMSViz](https://wkew.github.io/FTMSViz/SRFA-plot.html). [VanKrevLocal](https://github.com/HegemanLab/VanKrevelenLocal)
 
 
-## Now what if Sid was your PI instead of Dr. Jim JK :)👋
-
-### Scaffold Analysis:
-* This is useful for people working on biologically relevant data such as nucleoside analogues, we can use packages like: [ScaffoldGraph](https://github.com/UCLCheminformatics/ScaffoldGraph), [Scaffold_Hunter](http://scaffoldhunter.sourceforge.net/)
-
-### MORPHER: 
-* I wanted to explore this package [Morpher](https://app.assembla.com/spaces/molpher/wiki) with people working in metabolism/where the products and reactants. Interesting to see what results this approach gives. 
-
 
 
